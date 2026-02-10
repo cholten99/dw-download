@@ -205,3 +205,21 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#My stuff
+# ---- Dreamwidth export outputs ----
+dw_exports/
+dw_debug/
+failed_months.csv
+
+# ---- Auth material (never commit) ----
+cookies.txt
+
+# ---- Python ----
+.venv/
+__pycache__/
+*.pyc
+
+# ---- Logs / temp ----
+*.log
+
